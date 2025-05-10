@@ -108,7 +108,8 @@ const nextConfig = {
       'webmention.io',
       'ko-fi.com',
       '1image.top',
-      'img.notionusercontent.com'
+      'img.notionusercontent.com',
+      'forest-fennel-5fb.notion.site'
     ]
   },
 
