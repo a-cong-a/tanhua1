@@ -107,7 +107,8 @@ const nextConfig = {
       'p1.qhimg.com',
       'webmention.io',
       'ko-fi.com',
-      '1image.top'
+      '1image.top',
+      'img.notionusercontent.com'
     ]
   },
 
